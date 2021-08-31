@@ -9,3 +9,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cawauchi6204&layout=compact&theme=nightowl" />
 </a>
 
+
+
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/cawauchi/posts.svg)](http://qiita.com/cawauchi)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/cawauchi/contributions.svg)](http://qiita.com/cawauchi)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/cawauchi/followers.svg)](http://qiita.com/cawauchi)

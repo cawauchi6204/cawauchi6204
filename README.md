@@ -1,6 +1,6 @@
 <!-- ヘッダーバナー -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=cawauchi6204&fontSize=90&animation=fadeIn&fontAlignY=38&desc=フロントエンドエンジニア%20%7C%20クリエイティブコーダー%20%7C%20テックリード&descAlignY=51&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=cawauchi6204&fontSize=90&animation=fadeIn&fontAlignY=38&desc=エンジニア&descAlignY=51&descAlign=62" width="100%"/>
 </div>
 
 <!-- 自己紹介 -->
